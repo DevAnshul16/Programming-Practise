@@ -48,7 +48,6 @@ public class countInversions {
         merge_Sort(arr);
         System.out.println(count);
         print(arr);
-
     }
 
 }
