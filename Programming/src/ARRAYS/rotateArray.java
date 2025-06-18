@@ -1,4 +1,4 @@
-package ARRAYS;
+package src.ARRAYS;
 // rotated array using two pointers
 public class rotateArray {
     public static void main(String[] args) {
