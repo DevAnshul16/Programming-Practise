@@ -1,4 +1,4 @@
-package Linked_List;
+package src.Linked_List;
 
 
 class Node{

@@ -1,4 +1,4 @@
-package Linked_List;
+package src.Linked_List;
 // Finding the left middle value in a Linked List
 public class leftMiddle {
 public    int  left_Middle(Node head){

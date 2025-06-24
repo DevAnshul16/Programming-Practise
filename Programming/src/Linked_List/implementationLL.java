@@ -1,4 +1,4 @@
-package Linked_List;
+package src.Linked_List;
 class SLL{ //user defined data structure
    public Node head;
    public Node tail;

@@ -1,4 +1,5 @@
-package Linked_List;
+package src.Linked_List;
+
 
 public class shallowCopyOfANode {
     public static void printLinkedList(Node head){ // Recursive Method to print the nodes
